@@ -16,114 +16,116 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wadcan, Joe (@joewadcan)
 
-- [ ] Anusionwu, Ije
+- [X] Anusionwu, Ije (@IAmIje)
 
-- [ ] Berren, Becca
+- [X] Berren, Becca (@beccaberren)
 
-- [ ] Bertels, John
+- [X] Bertels, John (@jbertels14)
 
-- [ ] Bonifaz, Adriana
+- [x] Bonifaz, Adriana (@adri-bonifaz)
 
-- [ ] Bricker, Will
+- [X] Bricker, Will (@wbricker29)
 
-- [ ] Chen, Victoria
+- [X] Chen, Victoria (@vicchenx)
 
-- [ ] Diaz, Raul
+- [X] Dantas, Henrique (@henriquedc1)
 
-- [ ] Doherty, Mike
+- [X] Diaz, Raul (@rdiaz1987)
 
-- [ ] Ekop, Roland
+- [X] Doherty, Mike (@Mike-Doherty-80)
 
-- [ ] Erlangga Aekukula Renggana, Erlangga
+- [X] Ekop, Roland (@Rol-E)
 
-- [ ] Farsio, Sara
+- [X] Renggana, Erlangga (@erlanggarenggana)
 
-- [ ] Filatov, Anton
+- [X] Farsio, Sara (@sarafarsio)
 
-- [ ] Florez, Julian
+- [X] Filatov, Anton (@feelko)
 
-- [ ] Froehlich, Matthias
+- [X] Florez, Julian (@julianflorezg)
 
-- [ ] Fujitani, Naohiro
+- [x] Froehlich, Matthias (@Frolex)
 
-- [ ] Garcia Amor, Illan
+- [x] Fujitani, Naohiro (@NaoFujitani)
 
-- [ ] Garcia, Celso
+- [X] Garcia Amor, Illan (@illanxr)
 
-- [ ] Garg, Nisha
+- [X] Garcia, Celso (@CelsoGGB)
 
-- [ ] Greff, James
+- [X] Garg, Nisha (@ng2217)
 
-- [ ] Heumann, Andrew
+- [X] Greff, James (@PhaizerJ)
+
+- [X] Heumann, Andrew (@aheumann89)
 
 - [ ] Huang, Xiaoxiao
 
-- [ ] Ishii, Yuri
+- [X] Ishii, Yuri(@yuri-ishii)
 
 - [ ] Johnson, Benny
 
-- [ ] Kawatra, Aanchal
+- [X] Kawatra, Aanchal (@aanchalkawatra)
 
-- [ ] Kim, Maxwell
+- [X] Kim, Maxwell (@mkim20)
 
-- [ ] Kochevar, Michael
+- [X] Kochevar, Michael (@mkhaas6)
 
-- [ ] Kodira, Chengappa
+- [X] Kodira, Chengappa (@cukodira - test 10.24)
 
-- [ ] Lampka, Silke
+- [X] Lampka, Silke (@slampka)
 
-- [ ] Larson, Thomas
+- [X] Larson, Thomas (@thomaslarson7)
 
-- [ ] Lau, Sharon
+- [X] Lau, Sharon (@sharlau)
 
-- [ ] Leonard, Oscar
+- [X] Leonard, Oscar (@oscarleonard)
 
-- [ ] Louth, Brittany
+- [X] Louth, Brittany (@blouth620)
 
-- [ ] Lynn, Cindy
+- [X] Lynn, Cindy (@clynn00)
 
-- [ ] McGrath, Allyse
+- [X] McGrath, Allyse (@amograth) :smiley: :smiley: :smiley:
 
-- [ ] Nusinow, Matthew
+- [X] Nusinow, Matthew (@mnusinow)
 
-- [ ] OReilly, Samuel
+- [x] OReilly, Samuel (@soreilly292)
 
-- [ ] Platt, Noah
+- [X] Platt, Noah (@Noah-Platt)
 
-- [ ] Rana, Rohit
+- [X] Rana, Rohit (@rrohit4)
 
-- [ ] Rank, Stephanie
+- [X] Rank, Stephanie (@stephrank)
 
 - [X] Renson, Erika (@erikarenson)
 
-- [ ] Rentz, Katie
+- [X] Rentz, Katie (@katierentz)
 
-- [ ] Rubio, Nicolas
+- [X] Rubio, Nicolas (@nicorubio) :rocket
 
-- [ ] Salazar Romero, Belen
+- [X] Salazar Romero, Belen (@belen-salazar) :rocket
 
-- [ ] Seitibraimov, Amet
+- [X] Seitibraimov, Amet (@Amet-Seit) :rocket
 
-- [ ] Seo, Joon
+- [X] Seo, Joon (@Joon-seo)
 
-- [ ] Severin, Alex
+- [X] Severin, Alex (@seveale09)
 
-- [ ] Simnick, Jeff
+- [X] Simnick, Jeff (@jeffsimnick)
 
-- [ ] Soares, Bree
+- [X] Soares, Bree (@breesoares)
 
-- [ ] Sublett, Andrew
+- [X] Sublett, Andrew (@asublett)
 
-- [ ] Tan, Deborah
+- [X] Tan, Deborah (@deborahtanpc)
 
-- [ ] Tomlinson, Kate
+- [X] Tomlinson, Kate (@KateTomlinson121)
 
-- [ ] Tortorello, Matt
+- [X] Tortorello, Matt (@mltortorello)
 
-- [ ] Wang, Jie
+- [X] Wang, Jie (@wonjann)
 
-- [ ] Warner, Kyle
+- [X] Warner, Kyle (@Kwarner77)
 
-- [ ] Yuan, Xin
+- [X] Yuan, Xin (@xinyuanfall2019)
 
-- [ ] Zhang, Chi
+- [x] Zhang, Chi (@zhangchi67)
